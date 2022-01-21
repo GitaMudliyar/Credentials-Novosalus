@@ -1,6 +1,6 @@
 # Other-Novosalus #tatva-masi
 
-Tatva-masi:- Dr. Sinkar Sheet:-    https://docs.google.com/spreadsheets/d/18xZIvwoOah7w6lIoLTjOuVbFHp7BO25gHLnPgTv7fSI/edit#gid=0
+Tatva-masi:- Dr. Sinkar Google Sheet:-    https://docs.google.com/spreadsheets/d/18xZIvwoOah7w6lIoLTjOuVbFHp7BO25gHLnPgTv7fSI/edit#gid=0
 
 Airbase :-                         https://airtable.com/apptv4zyobueHzqad/tblqWAwDCUbWnePeH/viwa4RBK9yD6hlVKP?blocks=bip97mypUAoQ1bI2Z
 
